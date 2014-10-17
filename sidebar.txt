@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tub:home|Door43 (tub)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tub|d43-tub repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tub/archive/master.zip|d43-tub.zip]]
+
+**Recent Changes**
+{{changes>ns = tub}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tub|Ethnologue data]]
+
